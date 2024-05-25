@@ -2,6 +2,7 @@
 ![image](https://github.com/Seven11Eleven/CTF-writeups/assets/120821293/c938b0a7-98df-4d89-86b3-6e39fa94b6a6)
 Дают сайт, ничего не понятно, качаем исходники, которые даются в комплекте с задачей.
 ![image](https://github.com/Seven11Eleven/CTF-writeups/assets/120821293/f312d864-87e0-4512-a56e-1abf84882570)
+
 обнаруживаем, что сайт написан на Go))
 Исследуем код и обнаруживаем интересные строчки ![image](https://github.com/Seven11Eleven/CTF-writeups/assets/120821293/fb72f69d-4cf9-433a-8108-52545eb128bf)
 ```
